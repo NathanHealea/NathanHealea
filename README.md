@@ -1,6 +1,6 @@
 #### Hello! My name is,
 
-## Nathan Healea ([@nathanhealea]())
+## Nathan Healea ([@nathanhealea](https://github.com/NathanHealea))
 
 ###### Software Developer | Full Stack Engineer
 
