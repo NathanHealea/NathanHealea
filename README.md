@@ -18,6 +18,13 @@
 <p>Write Code that is Clean, Readable, and Maintainable</p>
 !-->
 
+## Projects: 
+### Portfolio
+[Nathan Healea Portfolio](https://github.com/NathanHealea/nathanhealea.com) - </> and Crafted with 💜 by Vishwa Gaurav. 
+
+###  GSCT: Gatsby Static Content Template
+[GSCT: Gatsby Static Content Template](https://github.com/NathanHealea/gatsby-static-content-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
+
 ## Tech Stack 💻:
 <p>Languages</p>
 <p>
