@@ -18,7 +18,7 @@
 <p>Write Code that is Clean, Readable, and Maintainable</p>
 !-->
 
-## Projects: 
+## Projects 👨‍💻: 
 ### Portfolio
 [Nathan Healea Portfolio](https://github.com/NathanHealea/nathanhealea.com) - </> and Crafted with 💜 by Vishwa Gaurav. 
 
