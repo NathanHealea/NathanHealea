@@ -22,8 +22,12 @@
 ### Portfolio
 [Nathan Healea Portfolio](https://github.com/NathanHealea/nathanhealea.com) - </> and Crafted with 💜 by Vishwa Gaurav. 
 
-###  GSCT: Gatsby Static Content Template
-[GSCT: Gatsby Static Content Template](https://github.com/NathanHealea/gatsby-static-content-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
+###  GT: Gatsby Template
+[GT: Gatsby Template](https://github.com/NathanHealea/gatsby-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
+
+###  NT: NextJs Template
+[NT: NextJs Template](https://github.com/NathanHealea/nextjs-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
+
 
 ## Tech Stack 💻:
 <p>Languages</p>
