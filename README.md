@@ -19,11 +19,8 @@
 !-->
 
 ## Projects 👨‍💻: 
-### Portfolio
-[Nathan Healea Portfolio](https://github.com/NathanHealea/nathanhealea.com) - </> and Crafted with 💜 by Vishwa Gaurav. 
-
-###  GT: Gatsby Template
-[GT: Gatsby Template](https://github.com/NathanHealea/gatsby-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
+### Personal Website
+[Personal Website](https://github.com/NathanHealea/personal-website) - </> and Crafted with 💜 by Vishwa Gaurav. 
 
 ###  NT: NextJs Template
 [NT: NextJs Template](https://github.com/NathanHealea/nextjs-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
