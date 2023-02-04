@@ -20,7 +20,7 @@
 
 ## Projects 👨‍💻: 
 ### Personal Website
-[Personal Website](https://github.com/NathanHealea/personal-website) - </> and Crafted with 💜 by Vishwa Gaurav. 
+[Personal Website](https://github.com/NathanHealea/personal-website) - </> and Crafted with 💜 by me. 
 
 ###  NT: NextJs Template
 [NT: NextJs Template](https://github.com/NathanHealea/nextjs-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
