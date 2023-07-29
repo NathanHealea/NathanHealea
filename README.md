@@ -19,12 +19,11 @@
 !-->
 
 ## Projects 👨‍💻: 
-### Personal Website
-[Personal Website](https://github.com/NathanHealea/personal-website) - </> and Crafted with 💜 by me. 
+### NathanHealea.com - Personal Website
+[nathanhealea.com](https://github.com/NathanHealea/nathanhealea.com) - </> and Crafted with 💜 by me. 
 
-###  NT: NextJs Template
-[NT: NextJs Template](https://github.com/NathanHealea/nextjs-template) - is a template to quickly build websites that is configured with TailwindCSS and DaisyUi.
-
+### Windows Durpal Development
+[windows-drupal-development](https://github.com/NathanHealea/windows-drupal-development) - Drupal development environment for Windows using Docker. One command start, full controll.
 
 ## Tech Stack 💻:
 <p>Languages</p>
